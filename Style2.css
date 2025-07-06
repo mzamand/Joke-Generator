@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to bottom right, #800080, #ff69b4, #228b22); /* বেগুনী, গোলাপী, সবুজ */
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #800080; /* বেগুনী */
+  padding: 20px;
+}
+
+button {
+  background-color: #ff69b4; /* গোলাপী */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #228b22; /* সবুজ */
+}
